@@ -1,0 +1,3 @@
+"""
+Server connector for gstbrowser
+"""
